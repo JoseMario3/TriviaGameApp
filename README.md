@@ -16,8 +16,8 @@ The following **required** functionality is completed:
   - [x] Category of questions
   - [x] Difficulty of questions
   - [x] Type of questions (Multiple Choice or True False)
-- [ ] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
-- [ ] Selected choices are marked as user taps their choice (but answered is not presented yet!)
+- [X] User can tap a button to start trivia game, this presents questions and answers in a List or Card view.
+- [X] Selected choices are marked as user taps their choice (but answered is not presented yet!)
 - [ ] User can submit choices and is presented with a score on trivia game
  
 The following **optional** features are implemented:
@@ -32,6 +32,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+https://imgur.com/gallery/CIfCWTJ
 
 ## Notes
 
